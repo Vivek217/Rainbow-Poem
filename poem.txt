@@ -2,9 +2,12 @@ The rainbow
 
 Violet
 indigo
+
+unicorn 
 Blue
 green
 yellow
 orange
 red
 pink
+And the unicorn
