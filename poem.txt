@@ -10,7 +10,8 @@ yellow
 orange
 red
 pink
-
-pony
-pony
+ ponies
+=======
+loreal
+ master
 And the unicorn
