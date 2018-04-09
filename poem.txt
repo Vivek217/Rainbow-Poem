@@ -10,4 +10,5 @@ yellow
 orange
 red
 pink
+loreal
 And the unicorn
